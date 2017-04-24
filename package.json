@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-izumin5210",
+  "description": "ESLint shareable configs for me",
+  "version": "0.1.0",
+  "author": "Masayuki Izumi <masayuki@izumin.info> (https://github.com/izumin5210)",
+  "license": "MIT",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "repository": "git@github.com:izumin5210/eslint-config-izumin5210.git"
+}
