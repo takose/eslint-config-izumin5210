@@ -3,6 +3,9 @@
   "description": "ESLint shareable configs for me",
   "version": "0.1.0",
   "author": "Masayuki Izumi <masayuki@izumin.info> (https://github.com/izumin5210)",
+  "dependencies": {
+    "eslint-plugin-eslint-comments": "^1.0.0"
+  },
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
