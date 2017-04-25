@@ -2,7 +2,7 @@
 
 module.exports = {
   'extends': [
-    './lib/base.js',
     './lib/standard.js',
+    './lib/base.js',
   ],
 }
