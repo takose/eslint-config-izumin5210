@@ -18,6 +18,9 @@
     "eslint-plugin-promise": "^3.5.0",
     "eslint-plugin-standard": "^3.0.1"
   },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
   "files": [
     "index.js",
     "standard.js",
@@ -36,5 +39,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/izumin5210/eslint-config-izumin5210.git"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "yarn run lint"
   }
 }
