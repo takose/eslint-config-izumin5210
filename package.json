@@ -26,9 +26,10 @@
     "eslint-plugin-react": "^6.10.3"
   },
   "files": [
+    "base.js",
     "index.js",
-    "standard.js",
-    "lib"
+    "flow.js",
+    "react.js"
   ],
   "homepage": "https://github.com/izumin5210/eslint-config-izumin5210#readme",
   "keywords": [
