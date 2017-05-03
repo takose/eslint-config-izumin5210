@@ -12,9 +12,9 @@
   },
   "dependencies": {
     "eslint-config-standard": "^10.2.1",
-    "eslint-config-standard-flow": "^1.0.1",
     "eslint-config-standard-react": "^5.0.0",
     "eslint-plugin-eslint-comments": "^1.0.0",
+    "eslint-plugin-flowtype": "^2.32.1",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-node": "^4.2.2",
